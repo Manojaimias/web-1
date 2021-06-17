@@ -1,2 +1,2 @@
-# web-1
-This is a website which i have created
+# Notes App
+This is a notes app this is maded by me to make notes
